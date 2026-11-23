@@ -1,7 +1,7 @@
 
 import random
 
-# NUMBER GUESSING GAME
+# NUMBER GUESSING AND WORD COUNTER
 def number_guessing_game():
 
     print("\n--- NUMBER GUESSING GAME ---")
